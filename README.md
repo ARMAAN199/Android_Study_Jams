@@ -31,8 +31,8 @@ Note that directly copying the code may not work due to different package names.
 
 ---
 
-<img src="DiceRoller.jpeg"/>
-<img src="Calculator.jpeg"/>
+<img src="DiceRoller.jpeg" width="250" height="450"/>
+<img src="Calculator.jpeg" width="250" height="450"/>
 <!-- Blockquote -->
 
 ---
